@@ -4,7 +4,7 @@ A fun and interactive multiple-choice quiz game built with HTML, CSS, and JavaSc
 
 ## 🚀 Live Demo
 
-🎮 [Play the Quiz Game](https://chaitanya-tatkare21.github.io/quizgame/)
+🎮 [Play the Quiz Game](https://chaitanya-tatkare21.github.io/Quiz-Game/)
 
 ## 🛠️ Technologies Used
 
@@ -18,16 +18,13 @@ A fun and interactive multiple-choice quiz game built with HTML, CSS, and JavaSc
 - Real-time score tracking
 - Instant feedback (correct/wrong)
 
-
-##🙋‍♂️ Author
-
-- Chaitanya Tatkare
+##🙋‍♂️ Author - Chaitanya Tatkare
 
 GitHub: @chaitanya-tatkare21
 
 ##📄 License
 
--This project is open source and free to use.
+- This project is open source and free to use.
 
 
 
